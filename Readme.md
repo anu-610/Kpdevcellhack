@@ -1,87 +1,43 @@
-# KP Dev Cell — Internal Hackathon
+# KP WEB
 
-## The Problem Statement
+This is the website for Kamand Prompt , IIT Mandi.
 
-**Build the official KP Dev Cell website.**
+It has a public site for visitors and a small admin panel for the team to update content without touching code every time.
 
-There is no Dev Cell website right now. You are going to build it.
+## What the site has
 
-What goes on it — that's your call. How it looks — your call. What features it has — your call. You know the club better than anyone. Build something you'd actually want to use and show people.
+- Home page with the main intro, club domains, and latest resources.
+- Events page with upcoming and past events, deadlines, posters, and PDFs.
+- Resources page for posts, achievements, and project showcases.
+- Team page with advisors, coordinators, and domain-wise members.
+- Highlights page for featured moments and work.
+- About page with a short club story and contact links.
 
-The best submission gets hosted as the **official Dev Cell website**. Your name stays in the footer for as long as the club exists.
+## Admin panel
 
----
+- Google login for admin access.
+- Protected admin routes.
+- Overview dashboard with quick stats.
+- Manage team members.
+- Manage events.
+- Manage resources and PDF links.
+- Manage achievements.
+- Manage projects.
+- Manage highlights.
+- Image and file uploads through Supabase storage.
 
-## What We Care About
+## Tech used
 
-A working website is the bare minimum. Claude can build a working website. That's not what we're looking for.
+- React + Vite
+- React Router
+- Tailwind CSS
+- Supabase Auth, Database, and Storage
 
-We're looking for code that reflects **genuine understanding** — of the stack, of the decisions made, of why things are structured the way they are. A real developer should be able to open your repo and feel like a human being thought about it.
+## Run locally
 
-Beyond the code — the website should actually look good. It's a club website. It's going to be public. It should feel like something you're proud to put your name on, not a default template with the club name swapped in. UI is part of the product.
-
-Figure out what "production grade" means to you. That's part of the challenge.
-
----
-
-## Loose Guidelines
-
-These are not requirements. They are suggestions to get you unstuck if you don't know where to start.
-
-- A homepage that represents the club
-- A way to show who's in the core team
-- Something dynamic — data that lives in a database, not hardcoded in JSX
-- Some part of the site that only an admin can touch
-
-Beyond this — build what makes sense to you.
-
----
-
-## Stack
-
-Use what was taught in the session. You have full freedom within that.
-
-- **Frontend** — React
-- **Backend** — FastAPI or Express. Pick one, know why you picked it.
-- **Database** — SQL or MongoDB. Pick one, know why you picked it.
-- **Auth** — Firebase or Supabase
-- **Containerization** — Docker. The whole app.
-
----
-
-## The One Hard Rule
-
-> **If you cannot explain any line of code in your project — that line should not be in your project.**
-
-We will open random files and ask what they do. We will send a broken request to your API and see what happens. We will ask why your DB schema looks the way it does.
-
-If your answer is *"Claude wrote it"* — that's not an answer.
-
----
-
-## Team Size
-
-1 to 3 people. Solo is allowed — but 1 week is not a lot of time. Plan accordingly.
-
----
-
-## Duration
-
-**1 week.** Starting **6 April, 12:00 AM.**
-
----
-
-## Deliverables
-
-By the end of 1 week, submit:
-
-- **A screen recording** of the website — walk through everything you built. Show the UI, show the admin flow, show it actually working.
-- **A short report** — what did you implement, what did each team member own, what decisions did you make and why. No fixed format. Just be honest about it.
-
-**Bonus** — deployed website with a live link. Not required. But if you do it, you already know more than most.
-
----
-
----
-
-*Built at KP Dev Cell — Kammand Prompt Club, IIT Mandi*
+```bash
+cd frontend
+npm install
+npm run dev
+```
+live link - https://kp-iitmandi.web.app/
