@@ -18,7 +18,7 @@ services:
     restart: unless-stopped
     environment:
       MONGO_INITDB_ROOT_USERNAME: ${MONGO_USER:-admin}
-      MONGO_INITDB_ROOT_PASSWORD: ${MONGO_PASSWORD:-devcelliitmandi}
+      MONGO_INITDB_ROOT_PASSWORD: ${MONGO_PASSWORD:-your_password_here}
       MONGO_INITDB_DATABASE: kpdevcel
     volumes:
       - mongo_data:/data/db
@@ -33,9 +33,8 @@ services:
     container_name: kpdc_api
     restart: unless-stopped
     environment:
-      MONGO_URI: mongodb://${MONGO_USER:-admin}:${MONGO_PASSWORD:-devcelliitmandi}@mongo:27017/kpdevcel?authSource=admin
-      FIREBASE_CREDENTIALS: ${FIREBASE_CREDENTIALS:-""}
-      SECRET_KEY: ${SECRET_KEY:-superSecretKey42}
+      MONGO_URI: mongodb://${MONGO_USER:-admin}:${MONGO_PASSWORD:-your_password_here}@mongo:27017/kpdevcel?authSource=admin
+      SECRET_KEY: ${SECRET_KEY:-your_secret_key_here}
     depends_on:
       - mongo
     networks:
