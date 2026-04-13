@@ -11,6 +11,12 @@ Backend/firebase-adminsdk.json
 .env
 .env.*
 
+# Node / npm artifacts
+node_modules/
+dist/
+.npm-cache/
+.npmrc
+
 
 
 
