@@ -1,0 +1,144 @@
+{"level":"info","message":"MongoDB connected","timestamp":"2026-04-11 10:56:10","uri":"mongodb://localhost:27017/devcell"}
+{"error":"connect ECONNREFUSED ::1:6379","level":"error","message":"Redis error","timestamp":"2026-04-11 10:56:10"}
+{"level":"warn","message":"Redis reconnecting","timestamp":"2026-04-11 10:56:10"}
+{"error":"connect ECONNREFUSED ::1:6379","level":"error","message":"Redis error","timestamp":"2026-04-11 10:56:10"}
+{"level":"warn","message":"Redis reconnecting","timestamp":"2026-04-11 10:56:10"}
+{"error":"connect ECONNREFUSED ::1:6379","level":"error","message":"Redis error","timestamp":"2026-04-11 10:56:10"}
+{"level":"warn","message":"Redis reconnecting","timestamp":"2026-04-11 10:56:10"}
+{"error":"connect ECONNREFUSED ::1:6379","level":"error","message":"Redis error","timestamp":"2026-04-11 10:56:10"}
+{"level":"warn","message":"Redis reconnecting","timestamp":"2026-04-11 10:56:10"}
+{"error":"connect ECONNREFUSED ::1:6379","level":"error","message":"Redis error","timestamp":"2026-04-11 10:56:10"}
+{"level":"warn","message":"Redis reconnecting","timestamp":"2026-04-11 10:56:11"}
+{"error":"connect ECONNREFUSED ::1:6379","level":"error","message":"Redis error","timestamp":"2026-04-11 10:56:11"}
+{"level":"warn","message":"Redis reconnecting","timestamp":"2026-04-11 10:56:11"}
+{"error":"connect ECONNREFUSED ::1:6379","level":"error","message":"Redis error","timestamp":"2026-04-11 10:56:11"}
+{"level":"warn","message":"Redis reconnecting","timestamp":"2026-04-11 10:56:12"}
+{"error":"connect ECONNREFUSED ::1:6379","level":"error","message":"Redis error","timestamp":"2026-04-11 10:56:12"}
+{"level":"warn","message":"Redis reconnecting","timestamp":"2026-04-11 10:56:13"}
+{"error":"connect ECONNREFUSED ::1:6379","level":"error","message":"Redis error","timestamp":"2026-04-11 10:56:13"}
+{"level":"warn","message":"Redis reconnecting","timestamp":"2026-04-11 10:56:13"}
+{"error":"connect ECONNREFUSED ::1:6379","level":"error","message":"Redis error","timestamp":"2026-04-11 10:56:13"}
+{"level":"warn","message":"Redis reconnecting","timestamp":"2026-04-11 10:56:14"}
+{"error":"connect ECONNREFUSED ::1:6379","level":"error","message":"Redis error","timestamp":"2026-04-11 10:56:14"}
+{"level":"warn","message":"Redis reconnecting","timestamp":"2026-04-11 10:56:15"}
+{"level":"error","message":"Redis: max reconnect attempts reached","timestamp":"2026-04-11 10:56:15"}
+{"level":"info","message":"MongoDB connected","timestamp":"2026-04-11 10:59:04","uri":"mongodb://localhost:27017/devcell"}
+{"level":"info","message":"MongoDB connected","timestamp":"2026-04-11 11:00:06","uri":"mongodb://localhost:27017/devcell"}
+{"level":"info","message":"MongoDB connected","timestamp":"2026-04-11 11:00:46","uri":"mongodb://localhost:27017/devcell"}
+{"env":"development","level":"info","message":"Dev Cell API running","pid":8016,"port":5001,"timestamp":"2026-04-11 11:00:46"}
+{"level":"warn","message":"No token provided","path":"/api/members","status":401,"timestamp":"2026-04-11 11:04:30"}
+{"level":"http","message":"::1 - - [11/Apr/2026:05:34:30 +0000] \"POST /api/members HTTP/1.1\" 401 47 \"-\" \"PostmanRuntime/7.53.0\"","timestamp":"2026-04-11 11:04:30"}
+{"level":"info","message":"SIGINT received — shutting down gracefully","timestamp":"2026-04-11 11:14:57"}
+{"level":"warn","message":"MongoDB disconnected — attempting reconnect","timestamp":"2026-04-11 11:14:57"}
+{"level":"error","message":"Unhandled rejection","reason":"Error: The client is closed","timestamp":"2026-04-11 11:14:57"}
+{"level":"info","message":"SIGINT received — shutting down gracefully","timestamp":"2026-04-11 11:14:57"}
+{"level":"error","message":"Unhandled rejection","reason":"Error: The client is closed","timestamp":"2026-04-11 11:14:57"}
+{"level":"info","message":"SIGINT received — shutting down gracefully","timestamp":"2026-04-11 11:15:01"}
+{"level":"error","message":"Unhandled rejection","reason":"Error: The client is closed","timestamp":"2026-04-11 11:15:01"}
+{"level":"info","message":"SIGINT received — shutting down gracefully","timestamp":"2026-04-11 11:15:01"}
+{"level":"error","message":"Unhandled rejection","reason":"Error: The client is closed","timestamp":"2026-04-11 11:15:01"}
+{"level":"info","message":"SIGINT received — shutting down gracefully","timestamp":"2026-04-11 11:15:10"}
+{"level":"error","message":"Unhandled rejection","reason":"Error: The client is closed","timestamp":"2026-04-11 11:15:10"}
+{"level":"info","message":"SIGINT received — shutting down gracefully","timestamp":"2026-04-11 11:15:10"}
+{"level":"error","message":"Unhandled rejection","reason":"Error: The client is closed","timestamp":"2026-04-11 11:15:10"}
+{"level":"error","message":"Graceful shutdown timed out — forcing exit","timestamp":"2026-04-11 11:15:12"}
+{"level":"info","message":"MongoDB connected","timestamp":"2026-04-11 19:08:49","uri":"mongodb://localhost:27017/devcell"}
+{"env":"development","level":"info","message":"Dev Cell API running","pid":16317,"port":5001,"timestamp":"2026-04-11 19:08:49"}
+{"level":"info","message":"MongoDB connected","timestamp":"2026-04-11 19:09:54","uri":"mongodb://localhost:27017/devcell"}
+{"level":"info","message":"MongoDB connected","timestamp":"2026-04-11 19:13:39","uri":"mongodb://localhost:27017/devcell"}
+{"env":"development","level":"info","message":"Dev Cell API running","pid":17906,"port":5001,"timestamp":"2026-04-11 19:13:39"}
+{"level":"info","message":"MongoDB connected","timestamp":"2026-04-11 19:15:36","uri":"mongodb://localhost:27017/devcell"}
+{"env":"development","level":"info","message":"Dev Cell API running","pid":20889,"port":5001,"timestamp":"2026-04-11 19:15:36"}
+{"level":"http","message":"::1 - - [11/Apr/2026:13:48:18 +0000] \"GET /api/health HTTP/1.1\" 404 61 \"http://localhost:3000/\" \"Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.0.0 Safari/537.36\"","timestamp":"2026-04-11 19:18:18"}
+{"level":"http","message":"::1 - - [11/Apr/2026:13:49:22 +0000] \"GET /api/members HTTP/1.1\" 200 46 \"http://localhost:3000/\" \"Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.0.0 Safari/537.36\"","timestamp":"2026-04-11 19:19:22"}
+{"level":"warn","message":"Invalid token","path":"/api/members","status":401,"timestamp":"2026-04-11 19:20:30"}
+{"level":"http","message":"::1 - - [11/Apr/2026:13:50:30 +0000] \"POST /api/members HTTP/1.1\" 401 43 \"http://localhost:3000/\" \"Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.0.0 Safari/537.36\"","timestamp":"2026-04-11 19:20:30"}
+{"level":"info","message":"SIGINT received — shutting down gracefully","timestamp":"2026-04-11 19:23:20"}
+{"level":"warn","message":"MongoDB disconnected — attempting reconnect","timestamp":"2026-04-11 19:23:20"}
+{"level":"error","message":"Unhandled rejection","reason":"Error: The client is closed","timestamp":"2026-04-11 19:23:20"}
+{"level":"info","message":"SIGINT received — shutting down gracefully","timestamp":"2026-04-11 19:23:20"}
+{"level":"error","message":"Unhandled rejection","reason":"Error: The client is closed","timestamp":"2026-04-11 19:23:20"}
+{"level":"info","message":"SIGINT received — shutting down gracefully","timestamp":"2026-04-11 19:23:22"}
+{"level":"error","message":"Unhandled rejection","reason":"Error: The client is closed","timestamp":"2026-04-11 19:23:22"}
+{"level":"info","message":"SIGINT received — shutting down gracefully","timestamp":"2026-04-11 19:23:22"}
+{"level":"error","message":"Unhandled rejection","reason":"Error: The client is closed","timestamp":"2026-04-11 19:23:22"}
+{"level":"info","message":"SIGINT received — shutting down gracefully","timestamp":"2026-04-11 19:23:23"}
+{"level":"error","message":"Unhandled rejection","reason":"Error: The client is closed","timestamp":"2026-04-11 19:23:23"}
+{"level":"info","message":"SIGINT received — shutting down gracefully","timestamp":"2026-04-11 19:23:23"}
+{"level":"error","message":"Unhandled rejection","reason":"Error: The client is closed","timestamp":"2026-04-11 19:23:23"}
+{"level":"error","message":"Graceful shutdown timed out — forcing exit","timestamp":"2026-04-11 19:23:35"}
+{"level":"info","message":"MongoDB connected","timestamp":"2026-04-11 19:45:57","uri":"mongodb://localhost:27017/devcell"}
+{"env":"development","level":"info","message":"Dev Cell API running","pid":22891,"port":5001,"timestamp":"2026-04-11 19:45:57"}
+{"level":"warn","message":"Validation failed","path":"/api/members","status":400,"timestamp":"2026-04-11 19:46:07"}
+{"level":"http","message":"::1 - - [11/Apr/2026:14:16:07 +0000] \"POST /api/members HTTP/1.1\" 400 97 \"http://localhost:3000/\" \"Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.0.0 Safari/537.36\"","timestamp":"2026-04-11 19:46:07"}
+{"level":"warn","message":"Validation failed","path":"/api/members","status":400,"timestamp":"2026-04-11 19:46:07"}
+{"level":"http","message":"::1 - - [11/Apr/2026:14:16:07 +0000] \"POST /api/members HTTP/1.1\" 400 97 \"http://localhost:3000/\" \"Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.0.0 Safari/537.36\"","timestamp":"2026-04-11 19:46:07"}
+{"level":"warn","message":"Validation failed","path":"/api/members","status":400,"timestamp":"2026-04-11 19:46:10"}
+{"level":"http","message":"::1 - - [11/Apr/2026:14:16:10 +0000] \"POST /api/members HTTP/1.1\" 400 97 \"http://localhost:3000/\" \"Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.0.0 Safari/537.36\"","timestamp":"2026-04-11 19:46:10"}
+{"level":"warn","message":"Validation failed","path":"/api/members","status":400,"timestamp":"2026-04-11 19:46:15"}
+{"level":"http","message":"::1 - - [11/Apr/2026:14:16:15 +0000] \"POST /api/members HTTP/1.1\" 400 97 \"http://localhost:3000/\" \"Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.0.0 Safari/537.36\"","timestamp":"2026-04-11 19:46:15"}
+{"level":"warn","message":"Validation failed","path":"/api/members","status":400,"timestamp":"2026-04-11 19:46:49"}
+{"level":"http","message":"::1 - - [11/Apr/2026:14:16:49 +0000] \"POST /api/members HTTP/1.1\" 400 134 \"http://localhost:3000/\" \"Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.0.0 Safari/537.36\"","timestamp":"2026-04-11 19:46:49"}
+{"level":"warn","message":"Validation failed","path":"/api/members","status":400,"timestamp":"2026-04-11 19:46:51"}
+{"level":"http","message":"::1 - - [11/Apr/2026:14:16:51 +0000] \"POST /api/members HTTP/1.1\" 400 134 \"http://localhost:3000/\" \"Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.0.0 Safari/537.36\"","timestamp":"2026-04-11 19:46:51"}
+{"level":"http","message":"::1 - - [11/Apr/2026:14:18:00 +0000] \"GET /api/health HTTP/1.1\" 404 61 \"http://localhost:3000/\" \"Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.0.0 Safari/537.36\"","timestamp":"2026-04-11 19:48:00"}
+{"level":"http","message":"::1 - - [11/Apr/2026:14:18:09 +0000] \"GET /api/members HTTP/1.1\" 304 - \"http://localhost:3000/\" \"Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.0.0 Safari/537.36\"","timestamp":"2026-04-11 19:48:09"}
+{"level":"http","message":"::1 - - [11/Apr/2026:14:18:10 +0000] \"GET /api/members HTTP/1.1\" 304 - \"http://localhost:3000/\" \"Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.0.0 Safari/537.36\"","timestamp":"2026-04-11 19:48:10"}
+{"level":"info","message":"SIGINT received — shutting down gracefully","timestamp":"2026-04-11 19:50:51"}
+{"level":"warn","message":"MongoDB disconnected — attempting reconnect","timestamp":"2026-04-11 19:50:51"}
+{"level":"error","message":"Unhandled rejection","reason":"Error: The client is closed","timestamp":"2026-04-11 19:50:51"}
+{"level":"info","message":"SIGINT received — shutting down gracefully","timestamp":"2026-04-11 19:50:51"}
+{"level":"error","message":"Unhandled rejection","reason":"Error: The client is closed","timestamp":"2026-04-11 19:50:51"}
+{"level":"info","message":"SIGINT received — shutting down gracefully","timestamp":"2026-04-11 19:50:53"}
+{"level":"error","message":"Unhandled rejection","reason":"Error: The client is closed","timestamp":"2026-04-11 19:50:53"}
+{"level":"info","message":"SIGINT received — shutting down gracefully","timestamp":"2026-04-11 19:50:53"}
+{"level":"error","message":"Unhandled rejection","reason":"Error: The client is closed","timestamp":"2026-04-11 19:50:53"}
+{"level":"error","message":"Graceful shutdown timed out — forcing exit","timestamp":"2026-04-11 19:51:06"}
+{"level":"info","message":"MongoDB connected","timestamp":"2026-04-11 21:54:33","uri":"mongodb://localhost:27017/devcell"}
+{"env":"development","level":"info","message":"Dev Cell API running","pid":94017,"port":5001,"timestamp":"2026-04-11 21:54:33"}
+{"level":"info","message":"MongoDB connected","timestamp":"2026-04-11 22:50:23","uri":"mongodb://localhost:27017/devcell"}
+{"env":"development","level":"info","message":"Dev Cell API running","pid":41442,"port":5001,"timestamp":"2026-04-11 22:50:23"}
+{"level":"info","message":"SIGINT received — shutting down gracefully","timestamp":"2026-04-11 22:54:27"}
+{"level":"warn","message":"MongoDB disconnected — attempting reconnect","timestamp":"2026-04-11 22:54:27"}
+{"level":"error","message":"Unhandled rejection","reason":"Error: The client is closed","timestamp":"2026-04-11 22:54:27"}
+{"level":"info","message":"SIGINT received — shutting down gracefully","timestamp":"2026-04-11 22:54:27"}
+{"level":"error","message":"Unhandled rejection","reason":"Error: The client is closed","timestamp":"2026-04-11 22:54:27"}
+{"level":"info","message":"SIGINT received — shutting down gracefully","timestamp":"2026-04-11 22:54:33"}
+{"level":"error","message":"Unhandled rejection","reason":"Error: The client is closed","timestamp":"2026-04-11 22:54:33"}
+{"level":"info","message":"SIGINT received — shutting down gracefully","timestamp":"2026-04-11 22:54:33"}
+{"level":"error","message":"Unhandled rejection","reason":"Error: The client is closed","timestamp":"2026-04-11 22:54:33"}
+{"level":"info","message":"SIGINT received — shutting down gracefully","timestamp":"2026-04-11 22:54:35"}
+{"level":"error","message":"Unhandled rejection","reason":"Error: The client is closed","timestamp":"2026-04-11 22:54:35"}
+{"level":"info","message":"SIGINT received — shutting down gracefully","timestamp":"2026-04-11 22:54:35"}
+{"level":"error","message":"Unhandled rejection","reason":"Error: The client is closed","timestamp":"2026-04-11 22:54:35"}
+{"level":"info","message":"SIGINT received — shutting down gracefully","timestamp":"2026-04-11 22:54:36"}
+{"level":"error","message":"Unhandled rejection","reason":"Error: The client is closed","timestamp":"2026-04-11 22:54:36"}
+{"level":"info","message":"SIGINT received — shutting down gracefully","timestamp":"2026-04-11 22:54:36"}
+{"level":"error","message":"Unhandled rejection","reason":"Error: The client is closed","timestamp":"2026-04-11 22:54:36"}
+{"level":"info","message":"SIGINT received — shutting down gracefully","timestamp":"2026-04-11 22:54:36"}
+{"level":"error","message":"Unhandled rejection","reason":"Error: The client is closed","timestamp":"2026-04-11 22:54:36"}
+{"level":"info","message":"SIGINT received — shutting down gracefully","timestamp":"2026-04-11 22:54:36"}
+{"level":"error","message":"Unhandled rejection","reason":"Error: The client is closed","timestamp":"2026-04-11 22:54:36"}
+{"level":"info","message":"SIGINT received — shutting down gracefully","timestamp":"2026-04-11 22:54:37"}
+{"level":"error","message":"Unhandled rejection","reason":"Error: The client is closed","timestamp":"2026-04-11 22:54:37"}
+{"level":"info","message":"SIGINT received — shutting down gracefully","timestamp":"2026-04-11 22:54:37"}
+{"level":"error","message":"Unhandled rejection","reason":"Error: The client is closed","timestamp":"2026-04-11 22:54:37"}
+{"level":"info","message":"SIGINT received — shutting down gracefully","timestamp":"2026-04-11 22:54:38"}
+{"level":"error","message":"Unhandled rejection","reason":"Error: The client is closed","timestamp":"2026-04-11 22:54:38"}
+{"level":"info","message":"SIGINT received — shutting down gracefully","timestamp":"2026-04-11 22:54:38"}
+{"level":"error","message":"Unhandled rejection","reason":"Error: The client is closed","timestamp":"2026-04-11 22:54:38"}
+{"level":"info","message":"SIGINT received — shutting down gracefully","timestamp":"2026-04-11 22:54:38"}
+{"level":"error","message":"Unhandled rejection","reason":"Error: The client is closed","timestamp":"2026-04-11 22:54:38"}
+{"level":"info","message":"SIGINT received — shutting down gracefully","timestamp":"2026-04-11 22:54:38"}
+{"level":"error","message":"Unhandled rejection","reason":"Error: The client is closed","timestamp":"2026-04-11 22:54:38"}
+{"level":"info","message":"SIGINT received — shutting down gracefully","timestamp":"2026-04-11 22:54:39"}
+{"level":"error","message":"Unhandled rejection","reason":"Error: The client is closed","timestamp":"2026-04-11 22:54:39"}
+{"level":"info","message":"SIGINT received — shutting down gracefully","timestamp":"2026-04-11 22:54:39"}
+{"level":"error","message":"Unhandled rejection","reason":"Error: The client is closed","timestamp":"2026-04-11 22:54:39"}
+{"level":"error","message":"Graceful shutdown timed out — forcing exit","timestamp":"2026-04-11 22:54:42"}
+{"level":"info","message":"MongoDB connected","timestamp":"2026-04-11 22:56:14","uri":"mongodb://localhost:27017/devcell"}
+{"env":"development","level":"info","message":"Dev Cell API running","pid":44863,"port":5001,"timestamp":"2026-04-11 22:56:14"}
+{"level":"warn","message":"MongoDB disconnected — attempting reconnect","timestamp":"2026-04-11 23:08:39"}
+{"level":"info","message":"MongoDB reconnected","timestamp":"2026-04-11 23:08:58"}
+{"level":"warn","message":"MongoDB disconnected — attempting reconnect","timestamp":"2026-04-11 23:22:59"}
+{"level":"info","message":"MongoDB reconnected","timestamp":"2026-04-11 23:23:09"}

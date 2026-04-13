@@ -1,0 +1,53 @@
+{"error":"connect ECONNREFUSED ::1:6379","level":"error","message":"Redis error","timestamp":"2026-04-11 10:56:10"}
+{"error":"connect ECONNREFUSED ::1:6379","level":"error","message":"Redis error","timestamp":"2026-04-11 10:56:10"}
+{"error":"connect ECONNREFUSED ::1:6379","level":"error","message":"Redis error","timestamp":"2026-04-11 10:56:10"}
+{"error":"connect ECONNREFUSED ::1:6379","level":"error","message":"Redis error","timestamp":"2026-04-11 10:56:10"}
+{"error":"connect ECONNREFUSED ::1:6379","level":"error","message":"Redis error","timestamp":"2026-04-11 10:56:10"}
+{"error":"connect ECONNREFUSED ::1:6379","level":"error","message":"Redis error","timestamp":"2026-04-11 10:56:11"}
+{"error":"connect ECONNREFUSED ::1:6379","level":"error","message":"Redis error","timestamp":"2026-04-11 10:56:11"}
+{"error":"connect ECONNREFUSED ::1:6379","level":"error","message":"Redis error","timestamp":"2026-04-11 10:56:12"}
+{"error":"connect ECONNREFUSED ::1:6379","level":"error","message":"Redis error","timestamp":"2026-04-11 10:56:13"}
+{"error":"connect ECONNREFUSED ::1:6379","level":"error","message":"Redis error","timestamp":"2026-04-11 10:56:13"}
+{"error":"connect ECONNREFUSED ::1:6379","level":"error","message":"Redis error","timestamp":"2026-04-11 10:56:14"}
+{"level":"error","message":"Redis: max reconnect attempts reached","timestamp":"2026-04-11 10:56:15"}
+{"error":"listen EADDRINUSE: address already in use :::5000","level":"error","message":"Uncaught exception","stack":"Error: listen EADDRINUSE: address already in use :::5000\n    at Server.setupListenHandle [as _listen2] (node:net:1817:16)\n    at listenInCluster (node:net:1865:12)\n    at Server.listen (node:net:1953:7)\n    at bootstrap (/Users/aarushiguglani/Downloads/hope/root/src/server.js:28:10)\n    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)","timestamp":"2026-04-11 10:59:04"}
+{"error":"listen EADDRINUSE: address already in use :::5000","level":"error","message":"Uncaught exception","stack":"Error: listen EADDRINUSE: address already in use :::5000\n    at Server.setupListenHandle [as _listen2] (node:net:1817:16)\n    at listenInCluster (node:net:1865:12)\n    at Server.listen (node:net:1953:7)\n    at bootstrap (/Users/aarushiguglani/Downloads/hope/root/src/server.js:28:10)\n    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)","timestamp":"2026-04-11 11:00:06"}
+{"level":"error","message":"Unhandled rejection","reason":"Error: The client is closed","timestamp":"2026-04-11 11:14:57"}
+{"level":"error","message":"Unhandled rejection","reason":"Error: The client is closed","timestamp":"2026-04-11 11:14:57"}
+{"level":"error","message":"Unhandled rejection","reason":"Error: The client is closed","timestamp":"2026-04-11 11:15:01"}
+{"level":"error","message":"Unhandled rejection","reason":"Error: The client is closed","timestamp":"2026-04-11 11:15:01"}
+{"level":"error","message":"Unhandled rejection","reason":"Error: The client is closed","timestamp":"2026-04-11 11:15:10"}
+{"level":"error","message":"Unhandled rejection","reason":"Error: The client is closed","timestamp":"2026-04-11 11:15:10"}
+{"level":"error","message":"Graceful shutdown timed out — forcing exit","timestamp":"2026-04-11 11:15:12"}
+{"error":"listen EADDRINUSE: address already in use :::5001","level":"error","message":"Uncaught exception","stack":"Error: listen EADDRINUSE: address already in use :::5001\n    at Server.setupListenHandle [as _listen2] (node:net:1817:16)\n    at listenInCluster (node:net:1865:12)\n    at Server.listen (node:net:1953:7)\n    at bootstrap (/Users/aarushiguglani/Downloads/hope/root/src/server.js:28:10)\n    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)","timestamp":"2026-04-11 19:09:54"}
+{"level":"error","message":"Unhandled rejection","reason":"Error: The client is closed","timestamp":"2026-04-11 19:23:20"}
+{"level":"error","message":"Unhandled rejection","reason":"Error: The client is closed","timestamp":"2026-04-11 19:23:20"}
+{"level":"error","message":"Unhandled rejection","reason":"Error: The client is closed","timestamp":"2026-04-11 19:23:22"}
+{"level":"error","message":"Unhandled rejection","reason":"Error: The client is closed","timestamp":"2026-04-11 19:23:22"}
+{"level":"error","message":"Unhandled rejection","reason":"Error: The client is closed","timestamp":"2026-04-11 19:23:23"}
+{"level":"error","message":"Unhandled rejection","reason":"Error: The client is closed","timestamp":"2026-04-11 19:23:23"}
+{"level":"error","message":"Graceful shutdown timed out — forcing exit","timestamp":"2026-04-11 19:23:35"}
+{"level":"error","message":"Unhandled rejection","reason":"Error: The client is closed","timestamp":"2026-04-11 19:50:51"}
+{"level":"error","message":"Unhandled rejection","reason":"Error: The client is closed","timestamp":"2026-04-11 19:50:51"}
+{"level":"error","message":"Unhandled rejection","reason":"Error: The client is closed","timestamp":"2026-04-11 19:50:53"}
+{"level":"error","message":"Unhandled rejection","reason":"Error: The client is closed","timestamp":"2026-04-11 19:50:53"}
+{"level":"error","message":"Graceful shutdown timed out — forcing exit","timestamp":"2026-04-11 19:51:06"}
+{"level":"error","message":"Unhandled rejection","reason":"Error: The client is closed","timestamp":"2026-04-11 22:54:27"}
+{"level":"error","message":"Unhandled rejection","reason":"Error: The client is closed","timestamp":"2026-04-11 22:54:27"}
+{"level":"error","message":"Unhandled rejection","reason":"Error: The client is closed","timestamp":"2026-04-11 22:54:33"}
+{"level":"error","message":"Unhandled rejection","reason":"Error: The client is closed","timestamp":"2026-04-11 22:54:33"}
+{"level":"error","message":"Unhandled rejection","reason":"Error: The client is closed","timestamp":"2026-04-11 22:54:35"}
+{"level":"error","message":"Unhandled rejection","reason":"Error: The client is closed","timestamp":"2026-04-11 22:54:35"}
+{"level":"error","message":"Unhandled rejection","reason":"Error: The client is closed","timestamp":"2026-04-11 22:54:36"}
+{"level":"error","message":"Unhandled rejection","reason":"Error: The client is closed","timestamp":"2026-04-11 22:54:36"}
+{"level":"error","message":"Unhandled rejection","reason":"Error: The client is closed","timestamp":"2026-04-11 22:54:36"}
+{"level":"error","message":"Unhandled rejection","reason":"Error: The client is closed","timestamp":"2026-04-11 22:54:36"}
+{"level":"error","message":"Unhandled rejection","reason":"Error: The client is closed","timestamp":"2026-04-11 22:54:37"}
+{"level":"error","message":"Unhandled rejection","reason":"Error: The client is closed","timestamp":"2026-04-11 22:54:37"}
+{"level":"error","message":"Unhandled rejection","reason":"Error: The client is closed","timestamp":"2026-04-11 22:54:38"}
+{"level":"error","message":"Unhandled rejection","reason":"Error: The client is closed","timestamp":"2026-04-11 22:54:38"}
+{"level":"error","message":"Unhandled rejection","reason":"Error: The client is closed","timestamp":"2026-04-11 22:54:38"}
+{"level":"error","message":"Unhandled rejection","reason":"Error: The client is closed","timestamp":"2026-04-11 22:54:38"}
+{"level":"error","message":"Unhandled rejection","reason":"Error: The client is closed","timestamp":"2026-04-11 22:54:39"}
+{"level":"error","message":"Unhandled rejection","reason":"Error: The client is closed","timestamp":"2026-04-11 22:54:39"}
+{"level":"error","message":"Graceful shutdown timed out — forcing exit","timestamp":"2026-04-11 22:54:42"}
